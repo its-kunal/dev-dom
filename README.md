@@ -45,7 +45,9 @@ const posts = {
   created_at: time,
   edited_at:[time]
 }
-
+```
+### Data Structure of Discussion
+```js
 const discussion = {
   thread:[{
     text: String,
