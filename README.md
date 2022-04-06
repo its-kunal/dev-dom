@@ -8,6 +8,7 @@ Tech Used
 - Firebase
 - MUI
 - Markdown Rendering
+- React
 
 ---
 
@@ -45,7 +46,7 @@ const posts = {
   edited_at:[time]
 }
 
-const discussion={
+const discussion = {
   thread:[{
     text: String,
     created_at: Time,
